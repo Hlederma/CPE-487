@@ -1,4 +1,4 @@
-# RGB to YUV Converter
+# 8-Bit Parity Generator
 
 ## VHDL Files
 * Architecture: [parity.vhd](./parity.vhd)
