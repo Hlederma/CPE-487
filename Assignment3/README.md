@@ -29,4 +29,5 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 The video below shows the Hex Counter running on the Nexys A7 board.
 
+https://user-images.githubusercontent.com/70532894/155871226-e4bccf93-42e2-4039-ac21-e3fedf4d30d9.mov
 
