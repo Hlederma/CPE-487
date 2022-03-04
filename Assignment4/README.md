@@ -38,7 +38,7 @@ The video below shows the Eight-Digit Hex Counter running on the Nexys A7 board.
 
 https://user-images.githubusercontent.com/70532894/156412820-14d6af56-7d97-4e5f-92a9-bedd771619c1.MOV
 
-##Proof of Memory Configuration Device
+## Proof of Memory Configuration Device
 Below is proof that a memory configuration device was set up, which would allow the A7 to boot from memory
 
 ![This is an image](https://github.com/Hlederma/CPE-487/blob/59fe5304413a90c59c636f2d5f2108e0dbddc1f3/Assignment4/memory_config_device.png)
