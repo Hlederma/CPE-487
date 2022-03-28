@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/70532894/160497591-0143148c-a06a-4ec3-
 ## Project 2: Modified Hex Calculator
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Hlederma/CPE-487/blob/d32af41a93862f7701ed027e745263b21bd52031/Assignment6/hexcalc_imp_modified.png)
 
 The video below shows the Modified Hex Calculator running on the Nexys A7 board. The 7-Segment LED Display now supresses the leading zero. Subtraction is performed by entering an number using the Pmod KYPD and pressing the BTND button on the board.
 
