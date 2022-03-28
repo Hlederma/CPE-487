@@ -75,9 +75,13 @@ https://user-images.githubusercontent.com/70532894/160459453-eddfe786-1fcc-4254-
 ## Project 1: Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Hlederma/CPE-487/blob/6bb6d537dd01008693de078c9023e48d4166ea10/Assignment5/Pong_imp_unmodified.png)
 
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. Pressing the BTNC button on the board will start the game with a red ball traveling up and bouncing at the edge of the screen. The objective of the game is to hit the ball against the rectangle by twisting the knob on the potentiometer. The game ends when the ball is dropped.
+
+
+
+https://user-images.githubusercontent.com/70532894/160466809-17b70f24-5b8f-4071-960b-35b76f60ac3b.mov
 
 
 
