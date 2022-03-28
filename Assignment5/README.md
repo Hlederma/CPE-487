@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/70532894/160466809-17b70f24-5b8f-4071-
 ## Project 2: Modified Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Hlederma/CPE-487/blob/ed9a69889ef4459bf302bb725d92e6cf4c8e0317/Assignment5/Pong_imp_modified.png)
 
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. The width of the rectangle has been doubled and the count of successful hits is now displayed on the board 7-Segment LED. The ball speed can be modified by using switches SW0 - SW4.
 
