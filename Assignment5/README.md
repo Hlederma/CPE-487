@@ -94,3 +94,7 @@ The implemented design of the circuit in Vivado is shown in the image below.
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. The width of the rectangle has been doubled and the count of successful hits is now displayed on the board 7-Segment LED. The ball speed can be modified by using switches SW0 - SW4.
 
 
+
+
+https://user-images.githubusercontent.com/70532894/160489705-4870e6a3-6555-43c1-ae9e-bbac0ffb19c9.mov
+
