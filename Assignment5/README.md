@@ -21,10 +21,14 @@
 ## Project 1: Bouncing Ball
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Hlederma/CPE-487/blob/54f327ab22e72bae1de77a54648b9438b58dbea0/Assignment5/Ball_imp_unmodified.png)
 
 
 The video below shows a red square bouncing ball moving vertically running on the Nexys A7 board displayed on the monitor.
+
+
+
+https://user-images.githubusercontent.com/70532894/160458128-ccd7009e-b2fd-4085-a1a7-0787015e80db.MOV
 
 
 
