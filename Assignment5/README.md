@@ -72,11 +72,6 @@ https://user-images.githubusercontent.com/70532894/160459453-eddfe786-1fcc-4254-
 * PONG: [pong.xdc](./pong.xdc)
 * Modified PONG: [pong_1.xdc](./pong_1.xdc)
 
-## Required Hardware
-* Pmod AD1
-* Potentiometer Controller
-* Monitor with VGA connector
-
 ## Project 1: Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
