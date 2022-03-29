@@ -45,6 +45,10 @@ The video below shows the Modified Hex Calculator running on the Nexys A7 board.
 
 
 
-https://user-images.githubusercontent.com/70532894/160499404-3c9bc6c2-f897-4c18-90b9-2f07117574fe.mov
+
+
+https://user-images.githubusercontent.com/70532894/160666618-f55dbc12-a350-48e4-b031-7598733c2196.mov
+
+
 
 
