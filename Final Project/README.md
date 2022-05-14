@@ -70,4 +70,10 @@ Below is an image showing the screen after the game being won. The game is still
 
 ![This is an image](https://github.com/Hlederma/CPE-487/blob/00740e0ecfebe8df7a87710e1b33130e2524d8b9/Final%20Project/DesiredShip.png)
 
+### Here is a video of the game with the changes made, but not with the desired results
+
+
+https://user-images.githubusercontent.com/70532894/168439106-d4d0b109-bf95-4d32-9367-d41eb1222c3c.MOV
+
+
 Failed VideoMemory.vhd file: [FailedVIdeoMemory.vhd](./FailedVIdeoMemory.vhd)
