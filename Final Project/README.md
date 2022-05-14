@@ -68,6 +68,8 @@ Below is an image showing the screen after the game being won. The game is still
 
 #### 1. We tried to change the game in order to obtain the desired space ship as seen below. Editing the space ship via the VideoMemory.vhd file. The end result was not what we desired. 
 
+Failed VideoMemory.vhd file: [FailedVIdeoMemory.vhd](./FailedVIdeoMemory.vhd)
+
 ![This is an image](https://github.com/Hlederma/CPE-487/blob/00740e0ecfebe8df7a87710e1b33130e2524d8b9/Final%20Project/DesiredShip.png)
 
 ### Here is a video of the game with the changes made, but not with the desired results
@@ -75,5 +77,5 @@ Below is an image showing the screen after the game being won. The game is still
 
 https://user-images.githubusercontent.com/70532894/168439106-d4d0b109-bf95-4d32-9367-d41eb1222c3c.MOV
 
+As seen the right side of the space ship did not copy over properly. Sadly we were not able to find the case of this, however, a possible solution that we did not have the time to do would be to change the size of the space ship in a way so that it would properly reflect the left side over. 
 
-Failed VideoMemory.vhd file: [FailedVIdeoMemory.vhd](./FailedVIdeoMemory.vhd)
