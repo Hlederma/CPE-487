@@ -79,3 +79,10 @@ https://user-images.githubusercontent.com/70532894/168439106-d4d0b109-bf95-4d32-
 
 As seen the right side of the space ship did not copy over properly. Sadly we were not able to find the case of this, however, a possible solution that we did not have the time to do would be to change the size of the space ship in a way so that it would properly reflect the left side over. 
 
+#### 2. Changes that should be made: Fire rate and motion
+
+Any group in the future should try to implement the ability to shoot and move at the same time. It would make the game more fun and faster. This can allow for broad ranges of difficulty to be implemented
+
+### 3. Changes that should be made: Difficuty selection in menu screen
+
+By adjusting the fire rate, and the enemy distance from  the ship, you can allow for a difficulty selection. Can be hard to implement because you would need another menu in the home screen. 
