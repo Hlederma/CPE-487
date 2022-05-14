@@ -83,6 +83,6 @@ As seen the right side of the space ship did not copy over properly. Sadly we we
 
 Any group in the future should try to implement the ability to shoot and move at the same time. It would make the game more fun and faster. This can allow for broad ranges of difficulty to be implemented
 
-### 3. Changes that should be made: Difficuty selection in menu screen
+#### 3. Changes that should be made: Difficuty selection in menu screen
 
 By adjusting the fire rate, and the enemy distance from  the ship, you can allow for a difficulty selection. Can be hard to implement because you would need another menu in the home screen. 
